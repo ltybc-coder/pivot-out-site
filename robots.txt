@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ltybc-coder.github.io/pivot-out-site/sitemap.xml
